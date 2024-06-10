@@ -31,7 +31,7 @@
 - [Install](#install)
 - [Running the code](#Running-the-code)
   - [PromptWare](#PromptWare) 🦠🔓
-  - [Advanced PromptWare Threat](#Advanced PromptWare Threat)🦠🔒
+  - [Advanced PromptWare Threat](#Advanced-PromptWare-Threat)🦠🔒
 - [Citation](#citation)
 
   
@@ -136,7 +136,7 @@ You can find the implementation of these tools in the [APT-DoS](PromptWare/APT-D
 
 
 
-##  Advanced PromptWare Threat
+##  Advanced-PromptWare-Threat
 
 **Advanced PromptWare Threat** (APwT)  are more sophisticated implementation of PromptWare that targets GenAI-powered applications whose logic is unknown to attackers.
 
